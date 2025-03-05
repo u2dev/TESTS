@@ -1,3 +1,3 @@
-.online-btn-cart, .online-btn-cart .note-online {
-    background: #ff0000 !important;
+.item .product-blocks .online-btn-cart, .item .product-blocks .hover-area, .item .product-blocks .item-free, .item .product-blocks .item-waranty-message, .item .product-blocks .item-waranty-icon {
+    background: #000!important;
 }
